@@ -30,7 +30,7 @@ public class Main {
 
         //4
 //        char c = 'a' ;
-//        char s = Character.toUpperCase(c);
+//        char s = (char) ((int) c - 32);
 //        System.out.println(s);
 
         //5
